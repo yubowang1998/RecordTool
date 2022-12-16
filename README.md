@@ -1,14 +1,6 @@
 # RecordTool
 
-This is the recording software developed in conjunction with our recent publication
-
-    @TechReport{Freipose2020,
-        author    = {Christian Zimmermann, Artur Schneider, Mansour Alyahyay, Thomas Brox and Ilka Diester},
-        title     = {FreiPose: A Deep Learning Framework for Precise Animal Motion Capture in 3D Spaces},
-        year      = {2020},
-        url          = {"https://lmb.informatik.uni-freiburg.de/projects/freipose/"}
-    }
-
+This is the recording software.
 It allows to record synchronous video from a multi camera rig using Basler cameras and an Arduino for trigger generation.
 
 ## Installation guide
